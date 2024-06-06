@@ -8,5 +8,3 @@ app.get("/",(req,res) => {
   });
 });
 
-const x = {a: 1, b: 2};
-const a = x.a;
